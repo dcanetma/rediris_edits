@@ -2,13 +2,11 @@
 
 [@RedIRIS_edits](https://twitter.com/RedIRIS_edits) es un [Twitterbot](http://en.wikipedia.org/wiki/Twitterbot) que publica los cambios en los artículos de la Wikipedia por usuarios anónimos en la RedIRIS.
 
+Este TwitterBot se basa en el proyecto de [edsu/anon](https://github.com/edsu/anon) y su objetivo es promover la transparencia en Internet.
+
 [RedIRIS](http://www.rediris.es) es la red académica y de investigación española y proporciona servicios avanzados de comunicaciones a la comunidad científica y universitaria nacional. Está financiada por el Ministerio de Economía y Competitividad, e incluida en su mapa de Instalaciones Científico-Técnicas Singulares (ICTS). Se hace cargo de su gestión la entidad pública empresarial Red.es, del Ministerio de Industria, Energía y Turismo.
 
 RedIRIS cuenta con más de 500 instituciones afiliadas, principalmente universidades y centros públicos de investigación, que llegan a formar parte de esta comunidad mediante la firma de un acuerdo de afiliación.
-
-Este TwitterBot se basa en el proyecto de [edsu/anon](https://github.com/edsu/anon). 
-
-Este proyecto tiene por objeto promover la transparencia en Internet.
 
 ## Cómo funciona
 
@@ -20,8 +18,9 @@ Cualquier cambio que **no se realiza por un usuario registrado** en wikipedia se
 
 > _Alguien desde RedIRIS ha editado 'Manel Esteller' en Wikipedia de manera anónima [https://es.wikipedia.org/…](https://es.wikipedia.org/w/index.php?title=Manel_Esteller&curid=4505306&diff=prev&oldid=55426083)_
 
+Las redes de datos son obtenidas de diversas fuentes y no pretende ser completa o exactitud. Nos esforzamos por mantener la información actualizada. Puedes proponer los cambios que consideres oportunos enviando una solicitud a este repositorio.
 
-Las redes de datos son recogidos de diversas fuentes y no pretende ser completa o exactitud. Nos esforzamos por mantener la información actualizada. 
+El rango de direcciones empleado [lo encontrarás en el siguiente archivo](blob/master/rediris-networks.json). 
 
 El sistema no hace ninguna evaluación, los datos se procesan directamente. Actualmente no se publicarán todos los cambios marginales con una diferencia de menos de 10 caracteres.
 
