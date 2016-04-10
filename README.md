@@ -28,3 +28,10 @@ El sistema no hace ninguna evaluación, los datos se procesan directamente. Actu
 En cuanto a los cambios realizados en Wikipedia, cada cuál deberar juzgar por sí mismo/a.
 
 
+## Pasadas ediciones en wikipedia
+
+Hemos incluido un fichero que contiene [todas las ediciones realizadas antes de la puesta en marcha de este Bot](blob/master/rediris_parl_wikipedia.md), por usuarios anónimos de Wikipedia desde el rango de IP's de RedIRIS.
+
+
+
+
