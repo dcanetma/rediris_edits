@@ -2,8 +2,13 @@
 
 ## Por rango
 
-https://es.wikipedia.org/w/index.php?limit=max&title=Especial%3AContribuciones&contribs=user&target=130.206.0.0
+El listado a continuación se ha obtenido ejecutando la siguiente consulta.
 
+- [https://es.wikipedia.org/w/index.php?limit=max&title=Especial%3AContribuciones&contribs=user&target=130.206.0.0%2F16&namespace=&tagfilter=&year=2016&month=-1](https://es.wikipedia.org/w/index.php?limit=max&title=Especial%3AContribuciones&contribs=user&target=130.206.0.0%2F16&namespace=&tagfilter=&year=2016&month=-1)
+
+Para ejecutar esta búsqueda, es preciso que hayas iniciado sesión en wikipedia. 
+
+Tambien es necesario permitir búsquedas por rango de Ip's en tus preferencias de wikipedia.
 
 ## Por cada IP
 
