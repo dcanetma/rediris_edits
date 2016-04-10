@@ -20,7 +20,7 @@ Cualquier cambio que **no se realiza por un usuario registrado** en wikipedia se
 
 Las redes de datos son obtenidas de diversas fuentes y no pretende ser completa o exactitud. Nos esforzamos por mantener la información actualizada. Puedes proponer los cambios que consideres oportunos enviando una solicitud a este repositorio.
 
-El rango de direcciones empleado [lo encontrarás en el siguiente archivo](blob/master/rediris-networks.json). 
+El rango de direcciones empleado [lo encontrarás en el siguiente archivo](rediris-networks.json). 
 
 El sistema no hace ninguna evaluación, los datos se procesan directamente. Actualmente no se publicarán todos los cambios marginales con una diferencia de menos de 10 caracteres.
 
@@ -29,7 +29,7 @@ En cuanto a los cambios realizados en Wikipedia, cada cuál deberar juzgar por s
 
 ## Pasadas ediciones en wikipedia desde RedIRIS
 
-Hemos incluido un fichero que contiene [todas las ediciones realizadas antes de la puesta en marcha de este Bot](blob/master/rediris_parl_wikipedia.md), por usuarios anónimos de Wikipedia desde el rango de IP's de RedIRIS.
+Hemos incluido un fichero que contiene [todas las ediciones realizadas antes de la puesta en marcha de este Bot](rediris_parl_wikipedia.md), por usuarios anónimos de Wikipedia desde el rango de IP's de RedIRIS.
 
 
 
