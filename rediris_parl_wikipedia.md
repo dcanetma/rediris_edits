@@ -1,14 +1,25 @@
 # Ediciones pasadas de la wikipedia (es) desde RedIris
 
-## Por rango
-
 El listado a continuación se ha obtenido ejecutando la siguiente consulta.
 
-- [https://es.wikipedia.org/w/index.php?limit=max&title=Especial%3AContribuciones&contribs=user&target=130.206.0.0%2F16&namespace=&tagfilter=&year=2016&month=-1](https://es.wikipedia.org/w/index.php?limit=max&title=Especial%3AContribuciones&contribs=user&target=130.206.0.0%2F16&namespace=&tagfilter=&year=2016&month=-1)
+- [Búsqueda en wikipedia por rango 130.206.0.0/16](https://es.wikipedia.org/w/index.php?limit=max&title=Especial%3AContribuciones&contribs=user&target=130.206.0.0%2F16&namespace=&tagfilter=&year=2016&month=-1)
 
-Para ejecutar esta búsqueda, es preciso que hayas iniciado sesión en wikipedia. 
+**Notas**
 
-Tambien es necesario permitir búsquedas por rango de Ip's en tus preferencias de wikipedia.
+- Para ejecutar esta búsqueda, es preciso que hayas iniciado sesión en wikipedia. 
+
+- Tambien es necesario permitir búsquedas por rango de Ip's en tus preferencias de wikipedia.
+
+
+## Alguna perla?
+
+Que yo haya detectado, no hay nada destacable. 
+
+Más allá de que se trata de conexiones realizadas desde instituciones científicas y la red universitaria nacional.
+
+- Fans de la cantante [Marta Botía](https://es.wikipedia.org/w/index.php?title=Marta_Bot%C3%ADa&curid=443869&diff=prev&oldid=7013978) :D
+- Mucho [futbolero](https://es.wikipedia.org/w/index.php?title=Iker_Casillas&curid=169712&diff=prev&oldid=29984816) amante de la precisión
+- Apreciaciones sobre el [uso y abuso de Cannabis sativa](https://es.wikipedia.org/w/index.php?title=Cannabis_sativa&curid=2606276&diff=prev&oldid=276803)
 
 ## Por cada IP
 
