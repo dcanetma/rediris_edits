@@ -1,12 +1,13 @@
 # RedIRIS_edits
 
-[@RedIRIS_edits](https://twitter.com/RedIRIS_edits) es un [Twitterbot](http://en.wikipedia.org/wiki/Twitterbot) que publica los cambios en los artículos de la Wikipedia por usuarios anónimos en la RedIRIS.
+[@RedIRIS_edits](https://twitter.com/RedIRIS_edits) es un [Twitterbot](http://en.wikipedia.org/wiki/Twitterbot) que publica los cambios realizados en la Wikipedia por usuarios anónimos desde la RedIRIS.
+
+La [RedIRIS](http://www.rediris.es) es la red académica y de investigación española y proporciona servicios avanzados de comunicaciones a la comunidad científica y universitaria nacional. 
+
+RedIRIS cuenta con más de 500 instituciones afiliadas, principalmente universidades y centros públicos de investigación.
 
 Este TwitterBot se basa en el proyecto de [edsu/anon](https://github.com/edsu/anon) y su objetivo es promover la transparencia en Internet.
 
-[RedIRIS](http://www.rediris.es) es la red académica y de investigación española y proporciona servicios avanzados de comunicaciones a la comunidad científica y universitaria nacional. Está financiada por el Ministerio de Economía y Competitividad, e incluida en su mapa de Instalaciones Científico-Técnicas Singulares (ICTS). Se hace cargo de su gestión la entidad pública empresarial Red.es, del Ministerio de Industria, Energía y Turismo.
-
-RedIRIS cuenta con más de 500 instituciones afiliadas, principalmente universidades y centros públicos de investigación, que llegan a formar parte de esta comunidad mediante la firma de un acuerdo de afiliación.
 
 ## Cómo funciona
 
