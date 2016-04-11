@@ -11,17 +11,21 @@ Este TwitterBot se basa en el proyecto de [edsu/anon](https://github.com/edsu/an
 
 ## Cómo funciona
 
-El sistema se basa en la evaluación de los canales IRC de Wikipedia, en la que los sistemas de todos los cambios realizados al registro automatizado Wikipedia.
+El sistema se basa en la evaluación de los canales IRC de Wikipedia, en los que todos los cambios realizados a páginas de la wikipedia son automáticamente registrados.
 
-Este flujo de datos [se puede seguir en directo aquí](http://wikistream.wmflabs.org). 
+Para haceros una idea de este flujo de datos [podeis seguir en directo](http://wikistream.wmflabs.org) una muestra creado por el [Wikimedia Tool Labs](http://tools.wmflabs.org/).
 
 Cualquier cambio que **no se realiza por un usuario registrado** en wikipedia se publicará en Twitter con el siguiente formato:
 
 > _Alguien desde RedIRIS ha editado 'Manel Esteller' en Wikipedia de manera anónima [https://es.wikipedia.org/…](https://es.wikipedia.org/w/index.php?title=Manel_Esteller&curid=4505306&diff=prev&oldid=55426083)_
 
+## Rangos de IP
+
 Las redes de datos son obtenidas de diversas fuentes y no pretende ser completa o exactitud. Nos esforzamos por mantener la información actualizada. Puedes proponer los cambios que consideres oportunos enviando una solicitud a este repositorio.
 
 El rango de direcciones empleado [lo encontrarás en el siguiente archivo](rediris-networks.json). 
+
+Este rango no está categorizado de ninguna manera, ( es decir por Universidad o centro específico), cosa que lo haría más interesante. :)
 
 El sistema no hace ninguna evaluación, los datos se procesan directamente. Actualmente no se publicarán todos los cambios marginales con una diferencia de menos de 10 caracteres.
 
