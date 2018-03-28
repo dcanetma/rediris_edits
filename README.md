@@ -14,7 +14,7 @@ Este bot opera en twitter con el nick [@SpainGovedits](https://twitter.com/Spain
 
 El pasado 28 de marzo de 2018 se decidió dar de baja por motivos de espacio y de poco interés en las ediciones detectadas.
 
-En este enlace se puede descargar el zip con todos los posts de la cuenta.
+[En este enlace](twitter/719199624989446144_ec33d20b55fcd7037c23137d0a8e4fbc159a6dff.zip) se puede descargar el zip con todos los posts de la cuenta.
 
 
 ## Cómo funciona
