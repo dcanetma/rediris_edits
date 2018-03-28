@@ -8,6 +8,14 @@ RedIRIS cuenta con más de 500 instituciones afiliadas, principalmente universid
 
 Este TwitterBot se basa en el proyecto de [edsu/anon](https://github.com/edsu/anon) y su objetivo es promover la transparencia en Internet.
 
+## El TwitterBot
+
+Este bot opera en twitter con el nick [@SpainGovedits](https://twitter.com/SpainGovedits) desde abril de 2016.
+
+El pasado 28 de marzo de 2018 se decidió dar de baja por motivos de espacio y de poco interés en las ediciones detectadas.
+
+En este enlace se puede descargar el zip con todos los posts de la cuenta.
+
 
 ## Cómo funciona
 
