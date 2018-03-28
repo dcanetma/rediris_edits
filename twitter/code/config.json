@@ -1,0 +1,13 @@
+{
+  "nick": "RedIRIS_edits",
+  "accounts": [
+    {
+      "consumer_key": "yL97Cv3HjxgACiPeK8ftAJ560",
+      "consumer_secret": "cVVgBevUkCnlrulwneRx1urm9yygBgISYAw4rivBdMja2S5XUt",
+      "access_token": "719199624989446144-jeLrIOuNdNSA6GYHSkwjrd7eCfXEBYd",
+      "access_token_secret": "cZzrYPIEyFWDd9EGdX1HbUyDlmuky6RlL3XWYgk0AL3yg",
+      "template": "Alguien desde {{name}} ha editado '{{page}}' en Wikipedia de manera anónima {{&url}}",
+      "ranges": "rediris-networks.json"
+    }
+  ]
+}

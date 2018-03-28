@@ -1,0 +1,27 @@
+{
+  "name": "rediris_anon",
+  "description": "Tuitea las ediciones anónimas en Wikipedia desde el rango de direcciones IP de RedIRIS, la red de comunicaciones para la comunidad científica y universitaria española.",
+  "homepage": "http://github.com/dcanetma/rediris_edits",
+  "license": "CC0-1.0",
+  "version": "0.0.3",
+  "dependencies": {
+    "async": "0.9.x",
+    "twit": "1.1.x",
+    "wikichanges": ">=0.2.7",
+    "coffee-script": "1.8.x",
+    "minimist": "1.1.x",
+    "mustache": "0.8.x",
+    "ipv6": "3.x.x"
+  },
+  "engines": {
+    "node": ">= 6.11.1"
+  },
+  "devDependencies": {
+    "mocha": "latest",
+    "chai": "latest"
+  },
+  "scripts": {
+    "test": "mocha --colors --reporter spec --compilers coffee:coffee-script/register test.coffee",
+    "start": "coffee anon.coffee"
+  }
+}
