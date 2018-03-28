@@ -13,11 +13,16 @@ Este TwitterBot se basa en el proyecto de [edsu/anon](https://github.com/edsu/an
 
 Este bot opera en twitter con el nick [@SpainGovedits](https://twitter.com/SpainGovedits) desde abril de 2016.
 
-	El pasado 28 de marzo de 2018 se decidió dar de baja por motivos de espacio y de poco interés en las ediciones detectadas.
+	El pasado 28 de marzo de 2018 se decidió dar de baja por motivos de espacio 
+	y de poco interés en las ediciones detectadas.
 
 [En este enlace](twitter/719199624989446144_ec33d20b55fcd7037c23137d0a8e4fbc159a6dff.zip) se puede descargar el zip con todos los posts de la cuenta.
 
+En carpeta /twitter se puede encontrar el código empleado por el bot basado en el proyecto [edsu/anon](https://github.com/edsu/anon), así como las imágenes de la identidad de twitter.
 
+> @RedIRIS_edits
+> Tuitea las ediciones anónimas en Wikipedia desde el rango de IP's de RedIRIS,   
+> la red de comunicaciones para la comunidad científica y universitaria española.
 
 
 ## Cómo funciona
